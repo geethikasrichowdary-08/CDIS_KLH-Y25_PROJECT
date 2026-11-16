@@ -1,11 +1,11 @@
-☁️ Cloud-Based Customer Relationship Management System (Cloud CRM)
+**Cloud-Based Customer Relationship Management System (Cloud CRM)**
 Project Overview
 
 The **Cloud-Based Customer Relationship Management System (Cloud CRM)** is a cloud-based application designed to manage customer information, sales leads, interactions, and follow-up activities in one centralized platform.
 
 The main goal of this project is to replace scattered customer records with a shared online system that helps businesses organize customer data, improve teamwork, and manage customer relationships more effectively.
 
-🎯 Objectives
+**Objectives**
 
 - Store customer details in a centralized database.
 - Track sales leads and their progress.
@@ -14,7 +14,7 @@ The main goal of this project is to replace scattered customer records with a sh
 - Provide secure online access to authorized staff.
 - Improve customer service and team collaboration.
 
-❗ Problem Statement
+** Problem Statement**
 
 Traditional customer management often relies on notebooks and spreadsheets, which can cause:
 
@@ -26,7 +26,7 @@ Traditional customer management often relies on notebooks and spreadsheets, whic
 
 Our proposed Cloud CRM system addresses these challenges through a centralized cloud-based solution.
 
-🚀 Key Features
+**Key Features**
 
 1. **Secure Login** – Staff authentication with role-based access.
 2. **Customer Management** – Add, edit, and search customer information.
@@ -35,7 +35,7 @@ Our proposed Cloud CRM system addresses these challenges through a centralized c
 5. **Follow-up Tasks** – Schedule follow-ups and monitor pending activities.
 6. **Dashboard** – View customer counts, leads, and task progress.
 
- 🔄 Example Workflow
+ **Example Workflow**
 
 The system follows a simple customer management process:
 
@@ -46,7 +46,7 @@ The system follows a simple customer management process:
 
 **Result:** Customer information, interaction history, and next actions are available in one place.
 
- ☁️ AWS Services Used
+ **AWS Services Used**
 
 The proposed system uses the following AWS services:
 
@@ -59,7 +59,7 @@ The proposed system uses the following AWS services:
 | AWS IAM | Manages permissions and access to AWS resources |
 | Amazon CloudWatch | Collects logs and monitors the application |
 
- 🏗️ Proposed System Architecture
+ ** Proposed System Architecture**
 
 The proposed architecture follows this flow:
 
@@ -83,7 +83,7 @@ Amazon S3       - File Storage
 AWS IAM         - Access Control
 CloudWatch      - Monitoring and Logs
 ```
- 💡 Motivation
+ **Motivation**
 
 The project aims to:
 
@@ -93,7 +93,7 @@ The project aims to:
 - Provide online access to customer records.
 - Make customer relationship management easier and more organized.
 
- Expected Outcome
+** Expected Outcome**
 
 The Cloud-Based CRM system aims to provide:
 
@@ -103,7 +103,7 @@ The Cloud-Based CRM system aims to provide:
 - Improved collaboration among employees.
 - Convenient cloud-based access.
 
-👨‍💻 Project Team
+ **Project Team**
 
 | Name | Student ID |
 |---|---|
@@ -111,7 +111,7 @@ The Cloud-Based CRM system aims to provide:
 | Tehseen Ashraff | 2500030280 |
 | M. Vignesh | 2520030065 |
 
-🔮 Future Enhancements
+**Future Enhancements**
 
 - Automated email and notification reminders.
 - Advanced sales analytics and reporting.
@@ -119,7 +119,7 @@ The Cloud-Based CRM system aims to provide:
 - Mobile-friendly CRM application.
 - AI-powered customer insights.
 
-🏁 Conclusion
+**Conclusion**
 
 The **Cloud-Based Customer Relationship Management System** aims to simplify customer management by bringing customer records, sales leads, interaction history, and follow-up activities into one centralized platform.
 
